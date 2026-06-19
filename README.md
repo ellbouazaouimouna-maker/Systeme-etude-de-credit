@@ -17,7 +17,7 @@ Face à la complexité croissante des données financières et au volume importa
 
 ---
 
-##  Problématique
+## ❓ Problématique
 
 L'étude d'une demande de crédit nécessite l'analyse de nombreux paramètres financiers et personnels du client. Cette procédure peut être longue et complexe lorsqu'elle est réalisée manuellement.
 
@@ -25,7 +25,7 @@ L'étude d'une demande de crédit nécessite l'analyse de nombreux paramètres f
 
 ---
 
-##  Solution proposée
+## 💡 Solution proposée
 
 Pour répondre à cette problématique, nous avons développé un système basé sur le **Machine Learning** permettant de prédire le risque de crédit à partir des informations fournies par les clients.
 
@@ -33,7 +33,7 @@ Plusieurs modèles d'apprentissage automatique ont été implémentés et compar
 
 ---
 
-## Objectifs
+## 🎯 Objectifs
 
 - Automatiser l'analyse des demandes de crédit.
 - Réduire le temps de traitement des dossiers.
@@ -43,7 +43,7 @@ Plusieurs modèles d'apprentissage automatique ont été implémentés et compar
 
 ---
 
-##  Technologies Utilisées
+## 🛠️ Technologies Utilisées
 
 ### Environnement de développement
 
@@ -64,7 +64,7 @@ Plusieurs modèles d'apprentissage automatique ont été implémentés et compar
 
 ---
 
-##  Algorithmes Implémentés
+## 🤖 Algorithmes Implémentés
 
 ### Régression Linéaire
 Utilisée pour analyser les relations entre les différentes variables du dataset.
@@ -83,7 +83,7 @@ Utilisation du Deep Learning pour améliorer la précision des prédictions.
 
 ---
 
-##  Étapes du Projet
+## 📊 Étapes du Projet
 
 1. Collecte et préparation des données.
 2. Nettoyage et prétraitement du dataset.
@@ -95,19 +95,19 @@ Utilisation du Deep Learning pour améliorer la précision des prédictions.
 
 ---
 
-##  Résultats
+## 📈 Résultats
 
 Les différents algorithmes ont été évalués à l'aide de métriques de classification afin d'identifier le modèle offrant les meilleures performances pour la prédiction du risque de crédit.
 
 ---
 
-##  Installation
+## 🚀 Installation
 
 ```bash
 pip install tensorflow scikit-learn pandas numpy matplotlib seaborn
 ````
 
-## Exécution
+## ▶️ Exécution
 
 ```bash
 python credit_prediction.py
@@ -141,6 +141,10 @@ SystemeDuGestionCredit/
 ```
 
 ---
+
+## 👤 Auteur
+
+**Mona Bouazaoui**
 
 Projet réalisé dans le cadre d'un projet académique en Intelligence Artificielle et Machine Learning.
 
